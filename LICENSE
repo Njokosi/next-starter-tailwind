@@ -1,21 +1,22 @@
-MIT License
+/* Copyright (C) KAWUNJU BICS LIMITED - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Njokosi Jones Kawunju <njokosi@gmail.com>, Jan 2021
+ */
 
-Copyright (c) 2020 Taylor Bryant
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+SOFTWARE COVERED
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This agreement covers the access and use of the source code for the following software, hereafter known as the “Software”
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+RESTRICTIONS
+
+Unless prior written consent has been obtained from the Software Owner, the following shall not be allowed.
+
+The distribution of any source codes, header files, make files, or libraries of the software.
+The software should not be merged, compiled, or copied unless expressed in this agreement.
+Alteration or removal of any notices in or on the software or within the documentation included within the software.
+Any distribution of the software by the Licensee that is not conducted with approval from the Software Provider.
+Disclosure of any source codes pertaining to the software to any additional parties not included in this agreement.
+The Licensee shall not disassemble, decompile or reverse engineer any object code contained within the software.
+The number of licenses being used may at no point and time be more than the number of licenses purchased through this agreement.
